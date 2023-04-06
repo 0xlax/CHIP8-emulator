@@ -9,7 +9,7 @@ unsigned char V[16];
 unsigned short I;
 unsigned short pc;
 unsigned char graphics[64*32];
-unsigned char delay;
+unsigned char delay;s
 unsigned char sound;
 unsigned char sp;
 unsigned char stack[16];
